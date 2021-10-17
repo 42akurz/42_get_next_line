@@ -1,5 +1,7 @@
 # get_next_line - 42 School Project
 
+[![akurz's 42Project Score](https://badge42.herokuapp.com/api/project/akurz/get_next_line)](https://github.com/JaeSeoKim/badge42)
+
 ## About
 The goal of this project is to write a function which returns a line from a file descriptor.
 
